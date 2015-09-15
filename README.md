@@ -1,4 +1,4 @@
-Karma Clone
-===========
+FEW Landing Page Clone
+=======================
 
-Thinkful FEWD Project.
+Straight, no-frills CSS and HTML.
