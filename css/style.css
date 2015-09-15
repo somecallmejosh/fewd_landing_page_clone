@@ -32,7 +32,7 @@ body {
     padding: 0;
   }
 .content--wrapper {
-  width: 62.5rem;
+  width: 60rem;
   margin: 0 auto;
 }
 .main-nav {
@@ -95,4 +95,31 @@ body {
   font-size: 1.5rem;
   padding: 0;
   margin: .5rem 0 1rem 0;
+}
+
+.main--content {
+  width: 100%;
+  clear: both;
+  padding: 6rem 0;
+}
+.main--content h1 {
+  text-align: center;
+  font-size: 2.5rem;
+  font-weight: 300;
+  margin-bottom: 4rem;
+}
+.teasers {
+  width: 100%;
+  overflow: hidden;
+}
+
+[class*="teaser--"] {
+  float: left;
+  width: 33.3333333%;
+  text-align: center;
+}
+
+.teasers h2 {
+  font-weight: 400;
+  font-size: 1.5rem;
 }
