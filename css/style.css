@@ -37,7 +37,7 @@ body {
 }
 .main-nav {
   background-color: white;
-  border-bottom: #ebebeb 1px solid;
+  border-bottom: #ebebeb 0.0625rem solid;
   height: 4rem;
   overflow: hidden;
   position: fixed;
@@ -82,7 +82,7 @@ body {
 .hero {
   margin: 4rem 0 0;
   padding: 0;
-  height: 735px;
+  height: 45.9375rem;
   text-align: center;
   background: url('../images/first-background.jpg') top center no-repeat;
   background-size: cover;
