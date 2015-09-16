@@ -128,3 +128,39 @@ body {
   font-weight: 400;
   font-size: 1.5rem;
 }
+
+footer .content--wrapper {
+  text-align: center;
+  border-top: #ccc 1px solid;
+  padding: 1rem 0 8rem;
+}
+ul.social-nav {
+  padding: 0;
+  margin: 0;
+}
+.social-nav li {
+  display: inline-block;
+}
+.social-nav a {
+  border: #ccc .0625rem solid;
+  height: 2.5rem;
+  width: 2.5rem;
+  border-radius: 100%;
+  display: block;
+}
+.social-nav span {
+  line-height: 2.5rem;
+}
+[class*="twitter"] {
+  color: #55ACEF;
+}
+[class*="facebook"] {
+  color: #4C66A4;
+}
+[class*="instagram"] {
+  color: #3F729B;
+}
+.copyright {
+  font-weight: 100;
+  color: #ccc;
+}
