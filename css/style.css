@@ -77,6 +77,8 @@ body {
 }
 .logo {
   margin-top: .75rem;
+  height: 2.5rem;
+  width: 1.6875rem;
 }
 
 .hero {
@@ -127,6 +129,11 @@ body {
 .teasers h2 {
   font-weight: 400;
   font-size: 1.5rem;
+}
+
+.teasers img {
+  height: 7.9375rem;
+  width: 7.9375rem;
 }
 
 footer .content--wrapper {
